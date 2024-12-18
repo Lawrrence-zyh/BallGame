@@ -1,1 +1,1 @@
-# BallGame
+To play Bullet Frenzy, start by launching three instances of the game: one as the Host (Game Master) and the other two as Players. In the Manage Users section, assign names to the players and create a room, which the players can then join. The Game Master can use the GM Panel to assign equipment to players and manage gameplay settings. Additionally, viewers watching the game can interact by sending donations to equip their favorite players with special gear or upgrades, adding an exciting audience-driven element to the experience.
